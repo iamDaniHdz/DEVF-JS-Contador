@@ -13,3 +13,7 @@ Página web desplegada: [Contador][contador]
 [contador]: https://iamdanihdz.github.io/DEVF-JS-Contador/
 
 ![Alt text](gif.gif)
+
+[Regresar al menú de prácticas][practicas]
+
+[practicas]: https://github.com/iamDaniHdz/DEVF-Intro-JavaScript/tree/master/practicas
